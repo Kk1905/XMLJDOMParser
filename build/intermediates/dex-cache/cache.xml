@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/joey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/joey/dev/Android/ASEssential/XMLJDOMParser/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-c9cb910b45057dab7bc3ead1955160e51569da16.jar" />
+    </item>
+    <item
+        jar="/Users/joey/dev/Android/ASEssential/XMLJDOMParser/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/joey/dev/Android/ASEssential/XMLJDOMParser/app/build/intermediates/pre-dexed/debug/classes-d5235a0353afe18aea55c876c8be5f7cb4b26f1c.jar" />
+    </item>
+    <item
+        jar="/Users/joey/dev/Android/ASEssential/XMLJDOMParser/jdom-2.0.6/jdom-2.0.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f14738ec2e9dd0011e343717fa624a10f8aab64">
+        <dex dex="/Users/joey/dev/Android/ASEssential/XMLJDOMParser/app/build/intermediates/pre-dexed/debug/jdom-2.0.6-fc8cc625605e35277d8100a6e3d6093e8d3e85ec.jar" />
+    </item>
+    <item
+        jar="/Users/joey/dev/Android/ASEssential/XMLJDOMParser/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/joey/dev/Android/ASEssential/XMLJDOMParser/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-b5b4edb1bf9743cbee5c57b0aa3e2b90143200df.jar" />
+    </item>
+
+</items>
